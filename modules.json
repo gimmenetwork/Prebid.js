@@ -1,0 +1,15 @@
+[
+  "criteoBidAdapter",
+  "teadsBidAdapter",
+  "appnexusBidAdapter",
+  "roxotAnalyticsAdapter",
+  "gumgumBidAdapter",
+  "ixBidAdapter",
+  "rubiconAnalyticsAdapter",
+  "rubiconBidAdapter",
+  "currency",
+  "consentManagement",
+  "sovrnBidAdapter",
+  "openxBidAdapter",
+  "emx_digitalBidAdapter"
+]
